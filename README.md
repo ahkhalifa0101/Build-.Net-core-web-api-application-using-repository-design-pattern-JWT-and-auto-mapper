@@ -1,4 +1,4 @@
-In this demo I have implemented .Net core 3.1 web api and Ihave used :
+In this demo I have implemented .Net core 3.1 web api and I have used :
 -------------------------------------------------------------------------
 1.Repository design pattern.
 2.JWT.
